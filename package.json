@@ -1,0 +1,32 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "API example for SWE230 course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/essam-eliwa/weather.git"
+  },
+  "keywords": [
+    "openweather",
+    "api",
+    "node",
+    "express",
+    "ejs"
+  ],
+  "author": "Essam Eliwa",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/essam-eliwa/weather/issues"
+  },
+  "homepage": "https://github.com/essam-eliwa/weather#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
